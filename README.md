@@ -29,14 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/Screenshot%202022-09-11%20235902.jpg)
 
 ### Links
 
 - Solution URL: [https://github.com/quintin156/Single-Price-Grid-Component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://quintin156.github.io/Single-Price-Grid-Component/]
 
-## My process
 
 ### Built with
 
@@ -45,7 +44,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
 
 ## Author
 

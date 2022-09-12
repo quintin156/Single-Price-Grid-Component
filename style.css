@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+* {
+  font-family: 'Karla', sans-serif;
+}
+
+body {
+  background-color: hsl(204, 43%, 93%)
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.grid-component {
+  width: 700px;
+  height: 500px;
+
+  overflow: hidden;
+
+  border-radius: 10px;
+  box-shadow: 3px 15px 20px 1px rgba(0, 0, 0, 0.2);
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.box-1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  background-color: white;
+  
+}
+
+.box-2 {
+  background-color: hsl(179, 62%, 43%);
+}
+
+.box-3 {
+  background-color:hsl(179, 62%, 52%);
+}
